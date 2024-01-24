@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 228a9ce11f8d61147a5419a38ba1ab7b, type: 3}
+  m_Name: New Questions 3
+  m_EditorClassIdentifier: 
+  QuestionsQuiz: What is the primary objective in the game "Minecraft"?
+  answers:
+  - Build and manage a city
+  - Solve puzzles in a mysterious world
+  - Survive and create in an open-world environment
+  - Race against time in a time-travel adventure
+  correctAnswer: 2
