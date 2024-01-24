@@ -1,2 +1,3 @@
 # QuizzGame-Unity
-Quizz về chủ đề Game
+Quiz about Game
+You can open the game in the QuizzGame Build folder.
